@@ -1,0 +1,11 @@
+metric,value
+Total AI/ML devices,1430.0
+Zero MAUDE reports,1306.0
+Zero reports (%),91.3
+1-10 reports,73.0
+>10 reports,51.0
+>100 reports,14.0
+Median reports per device,0.0
+Mean reports per device,15.3
+Max reports per device,9386.0
+Total linked reports,21902.0

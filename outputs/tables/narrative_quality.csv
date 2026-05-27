@@ -1,0 +1,6 @@
+metric,value,pct
+Reports with narrative >50 chars,21739,99.2
+Median narrative length (chars),1861,
+Boilerplate-only narratives,380,1.7
+Mentions AI/ML terms,2703,12.3
+Classified as uninformative (U),2206,10.1

@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Raw MAUDE data (too large for git)
+data/raw/maude_by_code/
+
+# Temporary files
+*.tmp
+*.bak

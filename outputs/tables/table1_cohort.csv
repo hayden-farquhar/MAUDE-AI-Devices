@@ -1,0 +1,19 @@
+Characteristic,Value
+FDA AI/ML devices (total),"1,430"
+Submission type — 510(k),"1,376 (96.2%)"
+Submission type — De Novo,37 (2.6%)
+Submission type — PMA,17 (1.2%)
+Unique product codes,168
+Medical specialties,17
+Clearance date range,1995-09-29 to 2025-12-30
+,
+Linked MAUDE reports,"21,902"
+Devices with ≥1 MAUDE report,124 (8.7%)
+Devices with zero reports,"1,306 (91.3%)"
+Reports per device — median (IQR),0 (0–0)
+Reports per device — mean (SD),15.3 (280.2)
+Narrative available,"21,739 (99.2%)"
+,
+Classified reports,"21,902"
+AI-specific failures,"5,262 (24.0%)"
+High confidence classifications,"16,910 (77.2%)"

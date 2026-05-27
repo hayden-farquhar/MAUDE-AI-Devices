@@ -1,0 +1,25 @@
+{
+  "title": "The Surveillance Gap: Failure Mode Taxonomy for FDA-Cleared AI/ML Medical Devices in MAUDE — Analysis Code and Data",
+  "upload_type": "software",
+  "description": "Reproducibility code and processed datasets for: The Surveillance Gap: Failure Mode Taxonomy and Post-Market Monitoring Adequacy of FDA-Cleared AI/ML Medical Devices in MAUDE. Includes data acquisition scripts (FDA device list + openFDA MAUDE API), multi-stage device-report linkage, GPT-4o-mini few-shot failure mode classification with validation, surveillance gap analysis, and publication figure generation.",
+  "creators": [
+    {
+      "name": "Farquhar, Hayden",
+      "orcid": "0009-0002-6226-440X",
+      "affiliation": "Independent researcher, Finley, NSW, Australia"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "artificial intelligence",
+    "medical devices",
+    "adverse events",
+    "post-market surveillance",
+    "MAUDE",
+    "FDA",
+    "failure mode taxonomy",
+    "reproducibility"
+  ],
+  "language": "eng",
+  "access_right": "open"
+}

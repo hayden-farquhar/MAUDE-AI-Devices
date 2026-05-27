@@ -1,0 +1,18 @@
+panel,n_devices,n_with_reports,total_reports,median_reports,zero_report_pct,dominant_failure_mode,ai_specific_rate
+Radiology,1094,82,7686,0.0,92.5,F,6.0
+Cardiovascular,136,16,10029,0.0,88.2,B,30.2
+Neurology,65,11,1581,0.0,83.1,B,75.6
+Anesthesiology,26,2,5,0.0,92.3,B,60.0
+Gastroenterology-Urology,24,0,0,0.0,100.0,,
+Hematology,20,2,486,0.0,90.0,F,10.5
+Ophthalmic,10,1,1,0.0,90.0,B,100.0
+Pathology,9,1,2,0.0,88.9,C,0.0
+Clinical Chemistry,9,2,443,0.0,77.8,B,55.8
+General and Plastic Surgery,7,2,1280,0.0,71.4,G,8.4
+Microbiology,6,2,65,0.0,66.7,B,96.9
+Clinical Toxcicology,5,0,0,0.0,100.0,,
+Dental,5,1,1,0.0,80.0,F,0.0
+Orthopedic,5,1,56,0.0,80.0,G,0.0
+General Hospital,4,1,267,0.0,75.0,B,39.0
+Obstetrics and Gynecology,4,0,0,0.0,100.0,,
+Immunology,1,0,0,0.0,100.0,,
