@@ -4,6 +4,8 @@ Code and data repository for: **The Surveillance Gap: Failure Mode Taxonomy and 
 
 Hayden Farquhar MBBS MPHTM, Independent researcher, Finley, NSW, Australia. ORCID: [0009-0002-6226-440X](https://orcid.org/0009-0002-6226-440X)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20411622.svg)](https://doi.org/10.5281/zenodo.20411622)
+
 Preprint: to be posted
 
 ## Overview
@@ -137,6 +139,7 @@ If you use this code or data, please cite:
 ```
 Farquhar H. The Surveillance Gap: Failure Mode Taxonomy and Post-Market Monitoring
 Adequacy of FDA-Cleared AI/ML Medical Devices in MAUDE. 2026.
+DOI: 10.5281/zenodo.20411622
 ```
 
 ## License
